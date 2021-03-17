@@ -1,3 +1,3 @@
 # Giannakis 
 
- This is a simple calculator in python
+ This is a simplified calculator in python
