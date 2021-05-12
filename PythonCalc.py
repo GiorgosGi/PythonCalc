@@ -18,7 +18,6 @@ def divide(num1, num2):
 
 print("Please select operation -\n"  "1. Add\n"  "2. Subtract\n"  "3. Multiply\n"  "4. Divide\n") 
 
-
 # Input from user 
 select = int(input("Select operations form 1, 2, 3, 4 :")) 
 
