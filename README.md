@@ -1,3 +1,3 @@
 # PythonCalculator 
 
-Α simplified calculator in python
+Two different variants of a simplified calculator in python.
