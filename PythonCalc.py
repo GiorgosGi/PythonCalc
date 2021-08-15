@@ -1,6 +1,6 @@
 # Python program for simple calculator 
+# Add two numbers
 
-# Add two numbers 
 def add(num1, num2): 
 	return num1 + num2 
 # Subtract two numbers 
