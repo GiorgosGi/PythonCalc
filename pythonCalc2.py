@@ -1,6 +1,7 @@
 import re
 
 print('Simple calculator')
+
 print('Type "end" to exit')
 
 previous = 0
